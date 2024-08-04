@@ -6,3 +6,22 @@
 .recent {
   background-color: #edf7fa;
 }
+.text-muted {
+  color: #8695a4 !important;
+}
+* {
+  color: #21243d;
+}
+nav {
+  color: black !important;
+  font-weight: bold;
+}
+.nav-link:hover {
+  color: #ff6464;
+}
+.download {
+  background-color: #ff6464;
+}
+.badge {
+  background-color: #142850;
+}
